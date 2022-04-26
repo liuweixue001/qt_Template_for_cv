@@ -1,0 +1,37 @@
+QMAKE_CXX.INCDIRS = \
+    G:\\opencv440\\build\\include\\opencv2 \
+    G:\\opencv440\\build\\include \
+    G:\\opencv440\\build\\include\\opencv2 \
+    G:\\opencv440\\build\\include \
+    G:\\NCNN\\build-vs2017\\install\\include\\ncnn \
+    G:\\NCNN\\build-vs2017\\install\\include \
+    G:\\QT\\5.12.0\\msvc2017_64\\include \
+    "G:\\VS Studio\\VC\\Tools\\MSVC\\14.29.30037\\include" \
+    "G:\\VS Studio\\VC\\Tools\\MSVC\\14.29.30037\\atlmfc\\include" \
+    "G:\\VS Studio\\VC\\Auxiliary\\VS\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt" \
+    "G:\\VS Studio\\VC\\Auxiliary\\VS\\UnitTest\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt" \
+    Include\\um
+QMAKE_CXX.LIBDIRS = \
+    G:\\opencv440\\build\\x64\\vc15\\lib \
+    G:\\NCNN\\build-vs2017\\install\\lib \
+    G:\\protobuf\\build-vs2019\\install\\lib \
+    G:\\QT\\5.12.0\\msvc2017_64\\lib \
+    "G:\\VS Studio\\VC\\Tools\\MSVC\\14.29.30037\\lib\\x64" \
+    "G:\\VS Studio\\VC\\Tools\\MSVC\\14.29.30037\\atlmfc\\lib\\x64" \
+    "G:\\VS Studio\\VC\\Auxiliary\\VS\\lib\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\ucrt\\x64" \
+    "G:\\VS Studio\\VC\\Auxiliary\\VS\\UnitTest\\lib" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\um\\x64" \
+    lib\\um\\x64
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1929
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192930038
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER

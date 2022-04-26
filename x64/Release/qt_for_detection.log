@@ -1,0 +1,12 @@
+﻿  Reading Qt configuration (G:/QT/5.12.0/msvc2017_64/bin/qmake)
+  uic qt_for_detection.ui
+  rcc qt_for_detection.qrc
+  moc qt_for_detection.h
+   RCC: Warning: No resources in 'C:\Users\00769111\source\repos\qt_for_detection\qt_for_detection.qrc'.
+  qt_for_detection.cpp
+  main.cpp
+  qrc_qt_for_detection.cpp
+  moc_qt_for_detection.cpp
+  qt_for_detection.vcxproj -> C:\Users\00769111\source\repos\qt_for_detection\x64\Release\qt_for_detection.exe
+  windeployqt: "G:/QT/5.12.0/msvc2017_64/bin\windeployqt.exe" --list target --dir C:\Users\00769111\source\repos\qt_for_detection\x64\Release\ C:\Users\00769111\source\repos\qt_for_detection\x64\Release\qt_for_detection.exe
+EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.
